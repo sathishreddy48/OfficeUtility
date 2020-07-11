@@ -1,2 +1,2 @@
 # OfficeUtility
-Teams chat bot for office utilities
+Teams chat bot All In One
